@@ -1,0 +1,11 @@
+.container{
+    width: 60%;
+    position: absolute;
+    top:20%;
+    left:30%;
+    padding: 20px 20px;
+}
+.table{
+    background-color: rgba(242, 248, 250, 0.536);
+    border: 1px solid rgb(209, 209, 223);
+}
